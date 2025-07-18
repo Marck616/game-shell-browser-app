@@ -4,7 +4,7 @@
 // Para incluir seu jogo, edite uma das opções abaixo:
 
 // OPÇÃO 1: URL do seu jogo (recomendado)
-const GAME_URL = 'https://exemplo.com/seu-jogo';
+const GAME_URL = 'https://marck616.github.io/Testes-Games/';
 
 // OPÇÃO 2: Arquivo local (cole o conteúdo HTML aqui)
 const GAME_HTML = `
